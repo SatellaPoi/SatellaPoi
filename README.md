@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
 - 😄 Read more about my website: [here]([https://www.cowabunga.cn/))
 
 ![](https://github-readme-stats.vercel.app/api?username=satellapoi&show_icons=true&theme=transparent)

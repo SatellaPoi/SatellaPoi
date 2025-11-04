@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=satellapoi&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/satellapoi/count.svg) visitor,Thank You!😘😘
+You are my![Profile Views](https://github-vistors-counter.onrender.com/github?username=satellapoi)visitor,Thank You!😘😘
 
 ### My Skill Set
 
